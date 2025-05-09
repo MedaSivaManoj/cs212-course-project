@@ -1,0 +1,31 @@
+// output of chatlog after the game has played for some time
+
+--- Chat at 2025-05-09 16:50:51 ---
+You: Hello
+manoj: Hey
+You: How are you
+manoj: Great
+
+--- Chat at 2025-05-09 16:50:51 ---
+siva: Hello
+You: Hey
+siva: How are you
+You: Great
+
+
+
+
+--- Chat at 2025-05-09 16:52:48 ---
+siva: who is this
+You: manoj
+siva: I am siva
+You: ok
+
+--- Chat at 2025-05-09 16:53:09 ---
+You: who is this
+manoj: manoj
+You: I am siva
+manoj: ok
+
+
+

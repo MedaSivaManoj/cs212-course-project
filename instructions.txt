@@ -1,0 +1,24 @@
+How to Run:
+-----------
+1. Open two terminal windows (or two machines if needed).
+2. In the first terminal, run the server script:
+   > python3 server.py
+
+   This will open a GUI for Player 1 (X). Wait here for the client to connect.
+
+3. In the second terminal, run the client script:
+   > python3 client.py
+
+   This opens a GUI for Player 2 (O) and connects to the server.
+
+4. Play the game turn by turn. Only the active player’s timer will count down.
+   If a player runs out of time, they lose automatically.
+
+5. Use the "Send Msg" button to chat, and "Reset Game" to restart the board.
+
+Important Notes:
+----------------
+- The server must be started before the client.
+- Both files use hardcoded localhost IP: 127.0.0.1 and port 5000.
+  You can modify them in the scripts if testing across different machines.
+
